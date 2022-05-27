@@ -5,3 +5,7 @@ This is a repository to gain familiarity with git and Github.
 - git add
 - git commit
 - git status
+- git branch
+- git branch -d
+- git checkout -b
+- touch
